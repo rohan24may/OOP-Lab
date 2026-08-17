@@ -1,164 +1,84 @@
-# 🧩 OOP Lab
+# OOP Lab
 
-### Object-Oriented Programming Lab Assignments
+A collection of **Object-Oriented Programming Lab assignments** implemented in **C++**.
 
-Welcome to my **Object-Oriented Programming (OOP) Lab** repository.
-
-This repository contains my lab assignments, programs, and practical implementations completed as part of my **OOP Lab coursework**.
+This repository contains practical programs covering C++ fundamentals and core OOP concepts as part of my lab coursework.
 
 ---
 
-## 🚀 About the Repository
+## 📚 Assignments
 
-This repository is a collection of **C++ programs** covering the fundamental concepts of Object-Oriented Programming.
+### Assignment 01 — Basics of C++, Classes and Objects
 
-The goal is to understand OOP concepts not just theoretically, but by implementing them through practical programs.
+The first assignment focuses on the fundamentals of C++ and introduces basic Object-Oriented Programming concepts.
 
-> **Learn → Code → Compile → Debug → Repeat.** 💻
+#### Topics Covered
+
+- Hello World & Control Characters
+- Celsius to Fahrenheit Conversion
+- `for`, `while` & `do-while` Loops
+- Loop Variations
+- Structures
+- Classes & Objects
+- Public & Private Access Specifiers
+- Private Member Functions
+- Complex Number Class
+- Namespaces
+
+#### Questions
+
+| Q.No. | Program |
+|:---:|---|
+| 1 | Hello World & Control Characters |
+| 2 | Celsius to Fahrenheit |
+| 3 | Loop Variations |
+| 4 | Student Structure |
+| 5 | Structure to Class |
+| 6 | Private Member Functions |
+| 7 | Complex Number Class |
+| 8 | Namespaces |
 
 ---
 
-## 📚 Topics Covered
+## 🛠️ Technologies
 
-The assignments will cover concepts such as:
-
-- 🔹 Basic C++ Programming
-- 🔹 Control Statements
-- 🔹 Loops
-- 🔹 Functions
-- 🔹 Arrays & Strings
-- 🔹 Pointers
-- 🔹 Structures
-- 🔹 Classes & Objects
-- 🔹 Constructors & Destructors
-- 🔹 Inheritance
-- 🔹 Polymorphism
-- 🔹 Encapsulation
-- 🔹 Abstraction
-- 🔹 Operator Overloading
-- 🔹 Function Overloading
-- 🔹 Friend Functions
-- 🔹 Virtual Functions
-- 🔹 Exception Handling
-- 🔹 File Handling
-- 🔹 Templates
+- **Language:** C++
+- **Paradigm:** Object-Oriented Programming
+- **IDE:** Visual Studio Code
+- **Version Control:** Git & GitHub
 
 ---
 
 ## 📁 Repository Structure
 
-    OOP-Lab/
-    │
-    ├── Assignment-01/
-    │   ├── program1.cpp
-    │   ├── program2.cpp
-    │   └── ...
-    │
-    ├── Assignment-02/
-    │   ├── program1.cpp
-    │   ├── program2.cpp
-    │   └── ...
-    │
-    ├── Assignment-03/
-    │   └── ...
-    │
-    └── README.md
+```text
+OOP-Lab/
+│
+├── Assignment-01/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   ├── Q3.cpp
+│   ├── Q4.cpp
+│   ├── Q5.cpp
+│   ├── Q6.cpp
+│   ├── Q7.cpp
+│   └── Q8.cpp
+│
+├── Assignment-02/
+│   └── ...
+│
+└── README.md
+```
 
----
+🎯 Purpose
 
-## 🛠️ Tech Stack
+This repository is maintained to keep track of my OOP Lab practical work and to build a strong foundation in C++ and Object-Oriented Programming.
+👨‍💻 Author
 
-| Technology | Purpose |
-|-----------|---------|
-| **C++** | Programming Language |
-| **OOP** | Programming Paradigm |
-| **Git** | Version Control |
-| **GitHub** | Code Hosting |
+Rohan Hudati
 
----
+MCA Student
 
-## 💻 Running the Programs
 
-### 1. Clone the Repository
 
-    git clone <your-repository-url>
-
-### 2. Navigate into the Repository
-
-    cd OOP-Lab
-
-### 3. Compile a Program
-
-    g++ program.cpp -o program
-
-### 4. Run the Program
-
-**Windows:**
-
-    program.exe
-
-**Linux / macOS:**
-
-    ./program
-
----
-
-## 🧠 Learning Goals
-
-Through these assignments, I aim to:
-
-- Understand the fundamentals of **C++**
-- Build a strong foundation in **Object-Oriented Programming**
-- Learn how real-world problems can be modeled using objects
-- Improve problem-solving and programming skills
-- Practice writing clean and structured code
-- Understand the difference between procedural and object-oriented approaches
-
----
-
-## 📌 Assignment Progress
-
-| Assignment | Topic | Status |
-|:----------:|-------|:------:|
-| 01 | C++ Basics & Control Statements | 🟢 Completed |
-| 02 | — | 🟡 In Progress |
-| 03 | — | ⚪ Pending |
-| 04 | — | ⚪ Pending |
-| 05 | — | ⚪ Pending |
-
-> More assignments will be added as the lab progresses.
-
----
-
-## 📸 Program Output
-
-Outputs and screenshots may be included inside their respective assignment folders wherever required.
-
----
-
-## 🎯 Repository Goal
-
-This repository serves as a record of my **OOP Lab journey**, from basic C++ programs to more advanced object-oriented concepts.
-
-Every assignment is another brick in the C++ wall. 🧱
-
----
-
-## 👨‍💻 Author
-
-**Rohan Hudati**
-
-🎓 BCA Student  
-💻 Exploring C++, OOP & Software Development
-
----
-
-## ⭐ Support
-
-If you find this repository useful, consider giving it a ⭐ on GitHub.
-
----
-
-### 🧑‍💻 Keep Coding. Keep Building. Keep Learning.
-
-**Made with C++ & a questionable number of semicolons `;`**
+This is the sweet spot: **clean GitHub README, enough detail to be useful, but no decorative 
